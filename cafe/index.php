@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Caf&eacute;!</title>
+	<title>blue star spares</title>
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 
