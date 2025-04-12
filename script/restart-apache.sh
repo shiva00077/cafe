@@ -1,11 +1,2 @@
-version: 0.0
-os: linux
-files:
-  - source: /
-    destination: /var/www/html/
-
-hooks:
-  AfterInstall:
-    - location: scripts/restart_apache.sh
-      timeout: 300
-      runas: root
+#! bin/blash
+sudo systemctl restart httpd
